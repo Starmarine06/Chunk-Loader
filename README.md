@@ -17,7 +17,7 @@ If you're ready to enhance your gameplay with the power of persistent chunks and
 Install my project from Planet Minecraft
 
 ```bash
-  goto the link https://www.planetminecraft.com/data-pack/powerups-5686211
+  goto the link https://www.planetminecraft.com/data-pack/chunk-loader-5685112/
   And press download datapack.(No resource pack required)
 ```
 OR
